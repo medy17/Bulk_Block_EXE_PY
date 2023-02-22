@@ -1,7 +1,7 @@
 import os
 import subprocess
 
-print('Note: This program needs admin priviliges to run properly\n\n')
+print('Note: This program needs admin privileges to run properly\n\n')
 directory = input('Enter the directory to scan for executable files: ')
 
 while True:
